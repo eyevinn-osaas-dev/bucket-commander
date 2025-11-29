@@ -36,7 +36,7 @@ Join our vibrant community of open source creators:
 - **💬 [Slack Workspace](https://slack.osaas.io)** - Connect with other creators, get help, and share your experiences
 - **🐙 [GitHub](https://github.com/EyevinnOSC)** - Contribute to the platform and follow development updates  
 - **💼 [LinkedIn](https://www.linkedin.com/company/eyevinn-open-source-cloud/)** - Stay updated with news and announcements
-- **🌐 [Documentation](https://github.com/EyevinnOSC/community)** - User guides and best practices
+- **📚 [Documentation](https://docs.osaas.io)** - User guides and best practices
 
 ### Join the Movement
 
